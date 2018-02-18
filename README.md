@@ -1,4 +1,5 @@
-﻿A basic single page react application to display GIF'S which are acquired from GIPHY Developer API when user enters the query in the search bar and clicks search button.
+#TrendGif
+A basic single page react application to display GIF'S which are acquired from GIPHY Developer API when user enters the query in the search bar and clicks search button.
 
 How to run:
 1.Download the compressed file and extract it into the desired folder.
