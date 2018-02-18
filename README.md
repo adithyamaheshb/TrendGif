@@ -7,6 +7,6 @@ A basic single page react application to display GIF'S which are acquired from G
 3.Make sure you have installed latest version of node.js in your computer<br/>
 4.After installing the dependencies, type <b>npm start</b> for starting the application<br/>
 5.Now, the application automatically opens in the browser on `http://localhost:3000`<br/>
-6.You can even get the production version of the application by running <b>npm run build</b> command<br/> <br/>
+6.You can even get the production version of the application by running <b>npm run build</b> command
 
 ### [Live Demo](http://trendgif.surge.sh)
